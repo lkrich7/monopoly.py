@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"play",
+				"player_num"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "monopoly.py",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/monopoly.py",
+		"/D/lpthw/ex01.py",
+		"/D/a.py",
+		"/D/b.py",
+		"/D/Users/liukan/cygwinhome/a+b.py",
+		"/D/tools/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/tools/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+		"/D/RoadNet.IOC/RoadNet.IOT/.git/info/exclude",
+		"/D/works/RIOH/source/RoadNet.IOT/codes/RoadNet.IOT/trunk/latest/SilverLight/GKFD.RoadNet.IOT.SilverLight.sln",
+		"/D/works/RIOH/source/RoadNet.IOT/codes/RoadNet.IOT/trunk/latest/SilverLight/GKFD.RoadNet.IOT.Client/GKFD.RoadNet.IOT.Client.csproj",
+		"/D/works/RIOH/物联网/source/RoadNet.IOT/.gitignore",
+		"/D/works/RIOH/物联网/source/sys$command",
+		"/D/apache-log4net/src/Core/ILogger.cs",
+		"/D/apache-log4net/src/Core/TimeEvaluator.cs",
+		"/D/apache-log4net/src/Core/LevelEvaluator.cs",
+		"/D/apache-log4net/src/Core/LevelCollection.cs",
+		"/D/apache-log4net/src/Core/Level.cs",
+		"/D/Users.old/liukan/cygwinhome/.inputrc",
+		"/D/works/RIOH/source/git/GKFD.WOS.Contrib/GKFD.WOS.Contrib.Test.Web/GKFD.WOS.Contrib.TestTestPage.html",
+		"/C/Users/liukan/Desktop/extraVSremark2.0.py",
+		"/D/works/RIOH/source/git/GKFD.WOS.Contrib/sys$command",
+		"/D/works/RIOH/source/git/sys$command",
+		"/D/works/RIOH/source/workspace/GuangXi/GKFD.RoadNet.GuangXi.SilverLight.sln",
+		"/D/Users/liukan/.bash_history",
+		"/D/Users/liukan/.gitconfig",
+		"/C/Users/liukan/Desktop/fstab",
+		"/D/tools/plsqldev/instantclient_11_2/network/admin/tnsnames.ora"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"VALUES\\(1,1",
+			"VALUES(1,1",
+			"$",
+			"('\\d{3}.\\d{3}',)",
+			"'K\\d{3}\\+\\d{3}',",
+			"^",
+			"京港澳郑漯(K692+300)','K692+300','692.300','0131120001",
+			"^",
+			" +"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"VALUES(1,2",
+			"');",
+			"\\1\\1",
+			"",
+			"INSERT INTO [SafeOperationDB].[dbo].[DeviceInfo] (DeviceType,Direction,Enabled,RoadID, DeviceName,StakeId,StakeNum,Remark) VALUES(1,1,0,'G4','",
+			"INSERT INTO [SafeOperationDB].[dbo].[DeviceInfo] (DeviceType,Direction,Enabled,RoadID, DeviceName,StakeId,StakeNum,Remark) VALUES(1,1,0,'G4',",
+			"','"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "monopoly.py",
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								924,
+								924
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
