@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import sys
@@ -10,7 +10,7 @@ class Player:
     def __unicode__(self) :
         return self.name
     def __str__(self) :
-        return unicode(self)
+        return unicode(self).encode(sys.stdout.encoding)
 
 class PropertyLand:
     house_num = 0
@@ -20,16 +20,16 @@ in_encoding = sys.stdin.encoding
 players = []
 
 while (True) :
-    print u'输入参赛人数[2-4]:'
-    try :
-        player_num = int(raw_input().decode(in_encoding))
+    #try :
+	print "hello"
+        player_num = int(raw_input('输入参赛人数[2-4]:').decode(in_encoding))
         break
-    except :
-        pass
+    #except :
+	
+        #pass
 
 for x in range(0, player_num) :
-    print u"输入 %d 号玩家名字：" % x
-    name = raw_input().decode(in_encoding)
+    name = raw_input("输入 %d 号玩家名字：" % x).decode(in_encoding)
     print type(name)
     player = Player()
     player.name = name
@@ -37,8 +37,7 @@ for x in range(0, player_num) :
     players.append(player)
 
 while (True) :
-    print u'开始游戏吗？[y/n]'
-    isStart = raw_input()
+    isStart = raw_input('开始游戏吗？[y/n]')
     if isStart == 'y' or isStart == 'n' :
         break
 
